@@ -9,7 +9,6 @@
   import AssistantsTitle from '../components/AssistantsTitle.vue'
   import PeopleList from '../components/PeopleList.vue';
   export default {
-    name: 'App',
     components: {
       AssistantsTitle,
       PeopleList,
